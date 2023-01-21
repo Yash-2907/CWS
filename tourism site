@@ -1,0 +1,153 @@
+<html>
+    <head>
+        <title>TOURISM SITE</title>
+        <link rel="stylesheet" href="css.css">
+    </head>
+    <body>
+        <img src="D:\RCOEM\CWS\RCOEM.png" align="left" height="85" width="85">
+         <h1>TOURISM SITE FOR NAGPUR</h1>
+         <marquee loop="50" scrollamount="15"><h1>WELCOME TO THIS TOURISM GUIDE TO NAGPUR , PRESENTED BY RCOEM "D-84" 1st YEAR (2022-23)</h1></marquee>
+         <hr>
+         <table border="1">
+              <tr>
+                <nav>
+                    <td><a href="#alg">AMBAZARI </a></td>
+                    <td><a href="#db">DEEKSHABHOOMI</a></td>
+                    <td><a href="#zm">ZERO MILE</a></td>
+                    <td><a href="#gt">GANESH TEKDI</a></td>
+                    <td><a href="#st">SWAMINARAYAN TEMPLE</a></td>
+                    <td><a href="#rsc">RAMAN SCIENCE CENTER</a></td>
+                    <td><a href="#mbz">MAHARAJBAGH ZOO</a></td>
+                    <td><a href="#fl">FUTALA LAKE</a></td>
+                    <td><a href="#kcp">KRAZY CASTLE AQUA PARK</a></td>
+                    <td><a href="#sh">SEMINARY HILLS</a></td>
+                </nav>
+              </tr>
+         </table>
+         <hr>
+         <br>
+         <img src="D:\RCOEM\CWS\car.gif" height="400" width="1500" align="right">
+         <br>
+         <ol type="I">
+            <br><br><br>
+            <h4 align="right"><mark><b>(CLICK THE IMAGES TO VISIT GOOGLE MAPS LOCATION)</b></mark></font></h4>
+            <a href="https://www.google.com/maps/place/Ambazari+Lake/@21.1311746,79.0378818,16z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c01263d2ef59:0xc07d53065ad5a6fd!8m2!3d21.1287056!4d79.0404926"><img src="D:\RCOEM\CWS\al.jpg" width="500" height="250" align="right"></a>
+            <section id="alg"></section>
+            <li><h2>Ambazari Lake Garden :-</h2></li>
+            <H3>Loceated at a distance of 6 km westwards in the outskirts of the city Ambazari Lake Garden is a prime attraction for visitors to Nagpur. It is famous for being the largest among the eleven lakes of Nagpur city and remains flanked by the vast expanse of the garden. It derives its name from the word Amba means mango in Marathi and the name means surrounded by mango trees. Its rich biodiversity captivates the hearts of nature lovers. It is a perfect place to relax and spend some peaceful time in the lap of nature. The presence of rowboats, paddle boats, electric rides, well-equipped kid's playground, pavements, well-constructed walking tracks gives it a feel of an amusement park.</H3>
+            <ul type="disc">
+                <li><b><font color="red">Ambazari Lake Garden open from 10:00 am to 06:30 pm all days in week, Entry fee Rs 10 per person.</font></b></li>
+                <li><b><font color="red">Dharampeth College Metro Station (2 KM), Subhash Nagar Metro Station (2 KM)</font></b></li>
+            </ul> 
+            <br>    
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/Deekshabhoomi,+Nagpur,+Maharashtra+440010/data=!4m2!3m1!1s0x3bd4c0871b799d59:0x3ad938c2021aa66c?sa=X&ved=2ahUKEwiwnKTL-tj8AhUP-jgGHWv8BygQ8gF6BAh1EAEhttps://www.google.com/maps/place/Deekshabhoomi,+Nagpur,+Maharashtra+440010/data=!4m2!3m1!1s0x3bd4c0871b799d59:0x3ad938c2021aa66c?sa=X&ved=2ahUKEwiwnKTL-tj8AhUP-jgGHWv8BygQ8gF6BAh1EAE"><img src="D:\RCOEM\CWS\db.jpg" width="500" height="250" align="right"></a>
+            <section id="db"></section>
+            <li><h2>Deekshabhoomi</h2></li>
+            <h3>Derived from the words Deeksha meaning act of ordaining and Bhoomi meaning ground, Deekshabhoomi is a revered Buddhist site. It is here that several people embrace Buddhism. The archeological marvel is the largest in Asia and the largest hollow stupa in the world. It consists of a hemispherical two-storied building. Each story has the capacity to house 5000 monks. It attracts millions of pilgrims, especially during the Dhamma Chakra Pravartan Din. It is here that Dr. B.R. Ambedkar along with 600,000 adopted Buddhism on Ashoka Vijaya Dashmi. It remains accessible all through the day year-round.</h3>
+            <ul type="disc">
+                <li><b><font color="red">Deekshabhoomi open from 12:00 am to 12:00 am all days in week, No entry fees.</font></b></li>
+                <li><b><font color="red">Family, Friends, Solo</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/search?sxsrf=AJOqlzWq3sb9NlAsgy9XLZucNqk3wxzbeQ:1674314824511&q=zero+mile&npsic=0&rflfq=1&rldoc=1&rllag=21148708,79079936,247&tbm=lcl&sxsrf=AJOqlzWq3sb9NlAsgy9XLZucNqk3wxzbeQ:1674314824511&sa=X&ved=2ahUKEwiXsu3i_Nj8AhW-TWwGHQX6D5MQtgN6BAgQEAE&biw=1536&bih=700&dpr=1.25#rlfi=hd:;si:8558212771919947011,l,Cgl6ZXJvIG1pbGVIuLnx9wFaGxAAEAEYABgBIgl6ZXJvIG1pbGUqBggCEAAQAZIBE2hpc3RvcmljYWxfbGFuZG1hcmuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmxjV05NV1cxUlJSQUKqASIQARoeEAEiGhoYOwmqFCa2x2dARlWcz24owo_Jv4tO-kAy,y,wGv6LYa1jhc;mv:[[21.1509879,79.0810218],[21.146428999999998,79.0788512]]"><img src="D:\RCOEM\CWS\zm.jpg" width="500" height="250" align="right"></a>
+            <section id="zm"></section>
+            <li><h2>Zero Mile Marker</h2></li>
+            <h3>It is a monument erected by the British during the Great Trigonometrical Survey of India in 1907. Located in the southeast direction to Vidhya Bhawan the Zero Mile Maker indicates the geographical center of India. This became the benchmark and the point was used to measure all distances. The monument consists of the main pillar made of sandstone, another small stone depicting the GTS Standard Benchmark, and four horses that were added later. The height of the main pillar is 1020.171 feet above the sea level. Located at the center of the country, the British intended to make Nagpur the second capital city.</h3>
+            <ul type="disc">
+                <li><b><font color="red">Zero Mile Marker open from 12:00 am to 12:00 am all days in week, No entry fees.</font></b></li>
+                <li><b><font color="red">Zero Mile Metro Station (0 KM)</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/Ganesh+Tekdi+Rd,+Sitabuldi,+Nagpur,+Maharashtra+440001/data=!4m2!3m1!1s0x3bd4c0c1e697854d:0xcaabc97878bbb562?sa=X&ved=2ahUKEwio0Yfg_dj8AhVB8zgGHY9jDOMQ8gF6BAgWEAI"><img src="D:\RCOEM\CWS\gt.jpg" width="500" height="250" align="right"></a>
+            <section id="gt"></section>
+            <li><h2>Shri Ganesh Mandir Tekdi</h2></li>
+            <h3>Popularly known as "Tekdicha Ganpati", meaning Ganpati of the Hills. Located at station road atop a hill the temple is said to be around 250 years old and is of immense religious significance for the Hindu faith. The presiding deity of the temple is Lord Ganesha and it is believed that the idol of God is Swayambhu, which originated from the ground on its own. A large number of devotees visit the temple throughout the year, but the footfall increases tremendously during Sankashti Chaturthi and Ganeshotsav. People have unmoved faith for the deity and visit with reverence hoping to fulfill their vows and wishes.</h3>
+            <ul type="disc">
+                <li><b><font color="red">Shri Ganesh Mandir Tekdi open from 12:00 am to 12:00 am all days in week, No entry fees.</font></b></li>
+                <li><b><font color="red">Religious Place - Temple, Hindu Temple</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/BAPS+Shri+Swaminarayan+Mandir/@21.1373936,79.1454689,15z/data=!4m5!3m4!1s0x0:0xadfbb9674ee9623f!8m2!3d21.1373936!4d79.1454689"><img src="D:\RCOEM\CWS\ss.jpg" width="500" height="250" align="right"></a>
+            <section id="st"></section>
+            <li><h2>Shri Swaminarayan Temple</h2></li>
+            <h3>Located on the Ring Road in Nagpur it is also known as Akshardham Temple. It is the 750th Swaminarayan temple inaugurated in India in 2013. Designed on the style of Sompuri architecture the magnificent building can leave one awestruck. It has a two-floor construction and is led by a staircase at the entrance. The inside of the temple is adorned with paintings, murals, and a green carpet. Its beauty increases manifold when the entire complex is lit by lights in the evening. The premises house a huge kitchen, yatri niwas, sadhu sadan, a restaurant, kid's play area, and a parking lot. It attracts a large number of devotees and visitors from all over.</h3>
+            <ul type="disc">
+                <li><b><font color="red">Swaminarayan Temple Open from 08:00 am to 12:00 pm, 04:00 pm to 08:30 pm all days in week, No entry fees.</font></b></li>
+                <li><b><font color="red">Automative Square Metro Station (1 KM), Prajapati Nagar Metro Station (1 KM),</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/Raman+Science+Centre+and+Planetarium/@21.0686228,82.7525294,5z/data=!4m5!3m4!1s0x0:0x6463cbb3af72f21b!8m2!3d21.0686228!4d82.7525294"><img src="D:\RCOEM\CWS\rsc.jpg" width="500" height="250" align="right"></a>
+            <section id="rsc"></section>
+            <li><h2>RAMAN SCIENCE CENTRE</h2></li>
+            <h3>To nurture and promote the acumen for science, the Raman Science Centre was set up under the aegis of Mumbai’s Nehru Science Centre. Named after the celebrated Nobel prize winner physicist C.V. Raman it is a uniquely interactive science. It houses several engaging attractions for people with a scientific bent of mind. It houses an information gallery, a science park that gives insight into the scientific principles, a gallery exhibiting the latest science and technology innovations, pre-historic animal park, and a planetarium. Several science exhibitions, sky observation programs, demonstration lectures, and workshops are organized regularly to encourage the budding scientifically inclined minds. It tops the to-do list of a visitor to Nagpur.</h3>
+            <ul type="disc">
+                <li><b><font color="red">Fees & Timings	Open from 11:30 am to 07:00 pm (Mar - Oct), 10:30 am to 06:00 pm (Nov - Feb) all days in week, Entry fees Rs 20, Students RS 10 per person.</font></b></li>
+                <li><b><font color="red">Sitabuldi Metro Station (1 KM), Nagpur Railway Station Metro Station (1 KM)</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/Maharaj+Bagh+Zoo/@21.1437085,79.0740832,15z/data=!4m2!3m1!1s0x0:0x3afe812572a2d88a?sa=X&ved=2ahUKEwihn_a8l9n8AhVV2DgGHf-PDsoQ_BJ6BAh6EAg"><img src="D:\RCOEM\CWS\mbz.jpg" width="500" height="250" align="right"></a>
+            <section id="mbz"></section>
+            <li><h2>Maharajbagh Zoo</h2></li>
+            <h3>As the name suggests the zoo premises have been built on the grand gardens (Baghs) of the Bhonsle and Maratha rulers (maharajas) under the supervision of Central Zoo Authority of India. Located in the heart of the city the zoo is a popular visitor's attraction. It is a perfect spot for family gatherings and weekend hangouts. It is an abode to several species of animals, birds, and plants. The peaceful ambiance, lush green cover, sounds of animals allows one to feel oneness with mother nature. It is a nature lover's favorite haunt, which though being in the city gives a feel of being away from it.</h3>
+            <ul type="disc">
+                <li><b><font color="red">It opens from 08:00am to 06:00pm (Feb - Aug), 08:00am to 05:30pm (Sep - Jan) all days in week, Entry fees for adult Rs 20, child RS 10 per person</font></b></li>
+                <li><b><font color="red">Place visit with	Family, Friends, Couple, Kids</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/Futala+Lake,+Vayusena+Nagar,+Nagpur,+Maharashtra+440021/data=!4m2!3m1!1s0x3bd4c037ffc26a85:0x16dab14f423e9dcd?sa=X&ved=2ahUKEwjYo7uomNn8AhU5yzgGHT70DtYQ8gF6BAhvEAE"><img src="D:\RCOEM\CWS\fl.jpg" width="500" height="250" align="right"></a>
+            <section id="fl"></section>
+            <li><h2>Futala Lake</h2></li>
+            <h3>Popularly called Telankhedi Lake, it is located at a distance of 6km towards the North from the city center. It attracts thousands of tourists throughout the year. Since it was constructed by the Erstwhile rulers of Nagpur it bears a historic significance too. The lake remains hedged by green forest cover on its three sides and Chowpatty on the other. The prime attraction of the place has colored fountains and the halogen lights which transform it into a breathtaking sight in the evenings. The lush greenery, carriage rides, restaurants in the vicinity, plenty of open space qualifies it as an ideal spot to relax one's frayed nerves.</h3>
+            <ul type="disc">
+                <li><b><font color="red">It opens 06:00 am to 07:00 pm every day. No Entry Fee.</font></b></li>
+                <li><b><font color="red">Family,Friends</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/Krazy+Castle+Aqua+Park/@21.1282952,79.0462212,15z/data=!4m5!3m4!1s0x0:0x90b6227685b57ad3!8m2!3d21.1282952!4d79.0462212"><img src="D:\RCOEM\CWS\kcp.jpg" width="500" height="250" align="right"></a>
+            <section id="kcp"></section>
+            <li><h2>Krazy Castle Aqua Park</h2></li>
+            <h3>It is a recreational water based theme park located just opposite Ambazari Lake and is easily accessible from all parts of the city. The castle-shaped park is set with numerous waterfalls and a globe-shaped fountain greets at its entrance. It is well equipped to cater to different segments of demographics. It has as many as 50 rides like sky copter, breakdancer, bull ride etc. several slides like splash pool, fun-splash, etc. Other engaging activities include kids’ surfing, water bungee, high fall, ocean bump ride, swimming. A rain dance floor playing grooving numbers adds to the animation. Food outlets and restaurants serve savory meals. A visit to this picturesque spot is a complete vacation.</h3>
+            <ul type="disc">
+                <li><b><font color="red">Krazy Castle Aqua Park Open from 11:00 am to 06:00 pm all days in week, Entry fees for adult Rs 450, child RS 280 per person.</font></b></li>
+                <li><b><font color="red">LAD Square Metro Station (1 KM), Dharampeth College Metro Station (1 KM),</font></b></li>
+            </ul> 
+            <br>
+
+
+            <hr color="black">
+            <a href="https://www.google.com/maps/place/Seminary+Hills,+Nagpur,+Maharashtra/@21.1629055,79.0525323,15z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c05251bb6007:0x6430f369d5ff2660!8m2!3d21.1660124!4d79.0550403"><img src="D:\RCOEM\CWS\sh.jpg" width="500" height="250" align="right"></a>
+            <section id="sh"></section>
+            <li><h2>Seminary Hill, Nagpur</h2></li>
+            <h3>Located at a distance of 5 km in the northwest of Nagpur is a small hillock, Seminary Hill. It is a visitor's favorite because it offers a panoramic view of the entire city of Nagpur. Named after St. Charles Seminary it is well set with walking paths, which makes it a perfect location to enjoy peaceful treks and spend leisure time in tranquility. The pleasant weather, captivating views and calmness leaves one rejuvenated. The place is a nature lover and photographer's paradise ready to shower its bounty. Nearby attractions include a Japanese garden, Satpura Botanical Garden, and St. Charles Seminary Walking paths are carved in these hills. It is a must-visit.</h3>
+            <ul type="disc">
+                <li><b><font color="red">Seminary Hill open from 06:00 am to 06:00 pm all days in week, No entry fees.</font></b></li>
+                <li><b><font color="red">Zero Mile Metro Station (1 KM), Institute of Engineers Metro Station (1 KM),</font></b></li>
+            </ul> 
+         </ol>
+         <br><br><br><br><br><br>
+         <img src="D:\RCOEM\CWS\thanks.png" width="1600">
+    </body>
+</html>
