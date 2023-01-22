@@ -1,0 +1,39 @@
+body{
+    background-color: silver;
+    background-image: url("bg4.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: overline underline;
+}
+h2{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-decoration: underline;
+    
+}
+h3{
+    text-align: left;
+    color: darkblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 900;
+}
+body table td{
+    background-color:lemonchiffon;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    padding: 3px;
+}
+body table {
+    border-spacing: 5px;
+}
+h4{
+    font-family: monospace;
+    letter-spacing: 3px;
+    text
+}
